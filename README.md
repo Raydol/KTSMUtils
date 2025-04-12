@@ -21,14 +21,15 @@ El objetivo es tener un espacio donde guardar (y compartir) todo ese conocimient
 
 ---
 
+## 📥 Posts disponibles
+
+- 📡 [GlideAjax en ServiceNow: guía completa con ejemplo funcional](./docs/GlideAjax.md)  
+  Aprende cómo usar GlideAjax correctamente para ejecutar lógica del servidor desde el cliente. Explicación paso a paso con Script Include, Client Script y buenas prácticas.
+
+---
+
 ## 📎 Recursos útiles
 
 - 📚 [Documentación oficial de ServiceNow](https://www.servicenow.com/docs/)
 - 🔍 [ServiceNow Knowledge Base (Soporte)](https://support.servicenow.com/kb?id=kb_home)
 - 💬 [Comunidad de desarrolladores de ServiceNow](https://www.servicenow.com/community/)
-
----
-
-                                                                              
-                                                                              
-                                                                                                                              
