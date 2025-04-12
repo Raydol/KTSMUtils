@@ -29,8 +29,6 @@ El objetivo es tener un espacio donde guardar (y compartir) todo ese conocimient
 
 ---
 
-¿Te mola ahora sí? ¿Quieres que te genere una plantilla para subir cada conocimiento con estructura tipo `Título – Problema – Solución – Referencias` o algo parecido?
-
                                                                               
                                                                               
                                                                                                                               
