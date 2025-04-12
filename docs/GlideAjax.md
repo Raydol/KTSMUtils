@@ -55,6 +55,10 @@ CountUserIncidents.prototype = Object.extendsObject(AbstractAjaxProcessor, {
 > Este script se podrá usar, por ejemplo, al cargar un formulario (onLoad), y pedirá al servidor el dato que necesitamos.
 
 ```javascript
+function onLoad() {
+  getMyOpenIncidents(); // Ejecutar función al cargar
+}
+
 function getMyOpenIncidents() {
   // Crea la instancia de GlideAjax y apunta al Script Include
   var ga = new GlideAjax('CountUserIncidents');
@@ -68,8 +72,6 @@ function getMyOpenIncidents() {
     alert("Tienes " + count + " incidencias abiertas 🛠️");
   });
 }
-
-getMyOpenIncidents(); // Ejecutar función al cargar
 ```
 
 
