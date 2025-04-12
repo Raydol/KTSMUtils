@@ -23,9 +23,9 @@ El objetivo es tener un espacio donde guardar (y compartir) todo ese conocimient
 
 ## 📎 Recursos útiles
 
-- 📚 [Documentación oficial de ServiceNow](https://developer.servicenow.com/dev.do#!/reference)
-- 🔍 [ServiceNow Knowledge Base (Soporte)](https://support.servicenow.com/kb)
-- 💬 [Comunidad de desarrolladores de ServiceNow](https://developer.servicenow.com/dev.do#!/community)
+- 📚 [Documentación oficial de ServiceNow](https://www.servicenow.com/docs/)
+- 🔍 [ServiceNow Knowledge Base (Soporte)](https://support.servicenow.com/kb?id=kb_home)
+- 💬 [Comunidad de desarrolladores de ServiceNow](https://www.servicenow.com/community/)
 
 ---
 
